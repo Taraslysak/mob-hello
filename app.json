@@ -1,0 +1,12 @@
+{
+  "name": "mob-hello",
+  "displayName": "mob-hello",
+  "expo": {
+    "name": "mob-hello",
+    "slug": "mob-hello",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
